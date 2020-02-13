@@ -1,7 +1,5 @@
 class HelloWorld{
-void myMethod(){
-sysout("My Method");
-}
+
 public static void main(String args[]){
 
 sysout("Welcome to Git!!!");
