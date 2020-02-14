@@ -1,5 +1,5 @@
 class HelloWorld{
-<<<<<<< HEAD
+
 	public void displayHello(String str){
 		System.out.println(str);
 	}
@@ -7,9 +7,15 @@ class HelloWorld{
 	
 		HelloWorld obj = new HelloWorld();
 		obj.displayHello("Welcome to Git!!!");
+<<<<<<< HEAD
 		}
 	public static void bugResolve(int bugId){}
 
+=======
+	public static bugResolve(int bugId){
+
+	}
+>>>>>>> Bug12:bugResolve method created by user
 
 void displayMethod{String str){
 	System.out.println("Welcome to Git!!!");
