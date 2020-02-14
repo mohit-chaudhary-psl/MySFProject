@@ -1,4 +1,5 @@
 class HelloWorld{
+<<<<<<< HEAD
 	public void displayHello(String str){
 		System.out.println(str);
 	}
@@ -7,6 +8,14 @@ class HelloWorld{
 		HelloWorld obj = new HelloWorld();
 		obj.displayHello("Welcome to Git!!!");
 
+=======
+void displayMethod{String str){
+	System.out.println("Welcome to Git!!!");
+}
+public static void main(String args[]){
+
+	System.out.println("Welcome to Git!!!");
+>>>>>>> 9b3bd8e864f385f626485ff41a913c078108a73d
 }
 
 
