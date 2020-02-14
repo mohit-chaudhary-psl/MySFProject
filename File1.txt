@@ -7,15 +7,17 @@ class HelloWorld{
 	
 		HelloWorld obj = new HelloWorld();
 		obj.displayHello("Welcome to Git!!!");
+		}
+	public static void bugResolve(int bugId){}
 
-=======
+
 void displayMethod{String str){
 	System.out.println("Welcome to Git!!!");
 }
 public static void main(String args[]){
-
+	bugResolve();
 	System.out.println("Welcome to Git!!!");
->>>>>>> 9b3bd8e864f385f626485ff41a913c078108a73d
+
 }
 
 
