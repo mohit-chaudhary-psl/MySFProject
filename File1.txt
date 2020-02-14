@@ -1,8 +1,12 @@
 class HelloWorld{
+	public void displayHello(String str){
+		System.out.println(str);
+	}
+	public static void main(String args[]){
+	
+		HelloWorld obj = new HelloWorld();
+		obj.displayHello("Welcome to Git!!!");
 
-public static void main(String args[]){
-
-	System.out.println("Welcome to Git!!!");
 }
 
 
